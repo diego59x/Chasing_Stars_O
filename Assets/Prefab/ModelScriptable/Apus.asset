@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 509d2e6b8c5612342a8d5e8ca24f5a91, type: 3}
+  m_Name: Apus
+  m_EditorClassIdentifier: 
+  stateAvailable: 1
+  amountToUnlock: 0
+  starName: Apus
+  description: "It\u2019s a constellation located in the third quadrant of southern
+    hemisphere it represents the Bird of Paradise. It was first described by the
+    European navigators that were able to reach latitudes from which they could see
+    these stars. The word Apus comes from the Greek and means \"without feet\". This
+    referred to the birds of paradise, a type of birds present in Oceania that were
+    formerly believed to have no feet. It's only visible from latitudes below 7 degrees
+    north. "
+  model: {fileID: 5066075280133913583, guid: 3be7640faf4fc444c8f27160c47744cd, type: 3}

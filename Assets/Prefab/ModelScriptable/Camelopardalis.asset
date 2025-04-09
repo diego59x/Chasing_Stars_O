@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 509d2e6b8c5612342a8d5e8ca24f5a91, type: 3}
+  m_Name: Camelopardalis
+  m_EditorClassIdentifier: 
+  stateAvailable: 1
+  amountToUnlock: 3000
+  starName: Camelopardalis
+  description: "Commonly known as the \u201CGiraffe\u201D, It's a modern constellation
+    in the northern hemisphere. Camelopardalis was documented for the first time
+    in the seventeenth century and, therefore, was not known to ancient civilizations.
+    Due to its high declination is only visible from latitudes above 10 degrees south.
+    It contains galaxies because it is in the opposite direction of the Milky Way,
+    there\u2019s been eight stars with planets detected within this constellation."
+  model: {fileID: 2711783122816658449, guid: 6b306b3cca3f23a4c90fbc557e89dc10, type: 3}

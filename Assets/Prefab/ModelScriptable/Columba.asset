@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 509d2e6b8c5612342a8d5e8ca24f5a91, type: 3}
+  m_Name: Columba
+  m_EditorClassIdentifier: 
+  stateAvailable: 0
+  amountToUnlock: 10000
+  starName: Columba
+  description: "Also known as \u201CDove\u201D, it\u2019s a constellation from the
+    south hemisphere, at the beginning the constellation was called the Dove from
+    Noah, in reference to the dove that announced to Noah the end of the flood. The
+    constellation Columba is only visible in its entirety from a latitude below 46
+    degrees north. This constellation has a relatively low brightness, due only one
+    of its stars has an apparent magnitude less than 3."
+  model: {fileID: 8843006645782402590, guid: 143380edb1d7a1a4caef1cf847370506, type: 3}

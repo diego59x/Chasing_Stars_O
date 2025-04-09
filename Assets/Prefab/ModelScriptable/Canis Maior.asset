@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 509d2e6b8c5612342a8d5e8ca24f5a91, type: 3}
+  m_Name: Canis Maior
+  m_EditorClassIdentifier: 
+  stateAvailable: 0
+  amountToUnlock: 5000
+  starName: Canis Maior
+  description: Canis Major is a constellation in the southern hemisphere. This constellation
+    is often depicted alongside the constellation Canis Minor and both seem to follow
+    the constellation of the hunter Orion. It can be seen from any latitude below
+    60 degrees North. The constellation Canis Major is mostly known due the star
+    Sirius, which is the brightest star in the night sky.
+  model: {fileID: 3764730882455530229, guid: 8b7c36cceb52ffe4ea028b1ce0ca139d, type: 3}

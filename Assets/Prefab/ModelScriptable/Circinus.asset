@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 509d2e6b8c5612342a8d5e8ca24f5a91, type: 3}
+  m_Name: Circinus
+  m_EditorClassIdentifier: 
+  stateAvailable: 0
+  amountToUnlock: 8500
+  starName: Circinus
+  description: Also known as the Compass, it is a modern constellation found by Nicolas-Louis
+    an astronomer from Lacaille in 1756. The Compass constellation is located in
+    the third quadrant of the southern hemisphere and can be seen entirely from latitudes
+    below 19 degrees north. Up to 34 degrees north can be seen partially.
+  model: {fileID: 6681361414868253425, guid: c1be9b0e154030b4a944db57f774faa3, type: 3}
